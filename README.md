@@ -46,3 +46,6 @@ Files
 - **Histogram**: Shows how strong the earthquakes were.
 - **Scatter Plot**: Shows magnitude over time, colored by depth.
 
+![Image](https://github.com/user-attachments/assets/d2a0d3ae-94f4-44c5-8a12-529dae9d1a10)
+
+![Image](https://github.com/user-attachments/assets/39f22af2-57e3-4f56-a791-3347d2face28)
